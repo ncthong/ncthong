@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there , i'm Thong and this is my personal Github👋
 
+I'm a junior developer and currently working Java, but i prefer web and frontend too 😄
 <!--
 **ncthong/ncthong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
