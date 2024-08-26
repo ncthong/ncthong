@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm I'm Thong, and this is my personal Github👋</h1>
+<h1 align="center">Hi there 👋, I'm Thong, and this is my personal Github👋</h1>
 <h3 align="center">A junior developer from Viet Nam</h3>
 
 - 🌱 I’m currently learning **Java Web, Frontend and React**
 
-- 💬 Ask me about **Java,React and COBOL**
+- 💬 Ask me about **Java,React and Frontend**
 
 - 📫 How to reach me **nguyencanhthong0906@gmail.com**
 
